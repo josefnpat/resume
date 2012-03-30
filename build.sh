@@ -1,5 +1,8 @@
 #!/bin/sh
 # Use US Letter head.
-php source.php > source.html
-wkhtmltopdf -s Letter source.html resume.pdf
-rm source.html
+cd src
+php index.php > temp.html
+wkhtmltopdf -s Letter -d 320 -B 0 -L 0 -R 0 -T 0 temp.html ../resume.pdf
+rm temp.html
+cd ..
+

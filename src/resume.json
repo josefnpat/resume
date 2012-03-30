@@ -1,0 +1,59 @@
+{
+  "name": "Josef N. Patoprsty",
+  "contact": {
+    "E-Mail Address": [
+      "seppi@josefnpat.com"
+    ],
+    "Telephone Number": [
+      "Cell: (616) 990 1604"
+    ],
+    "Permanent Address": [
+      "474b Clay Road",
+      "Rochester, New York, 14623",
+      "United States of America"
+    ]
+  },
+  "sections": {
+    "Objective": {
+      "Paragraph": [
+        "To obtain a position in the field of Computer Engineeringing, Computer Science, Web Development or Game Development."
+      ]
+    },
+    "Education": {
+      "Header": "Rochester Institute of Technology, Rochester, New York &mdash; August 2011",
+      "Table": {
+        "Bachelor of Science": "Computer Engineering Technology",
+        "Minor": "Computer Science",
+        "Concentration": "Writing Studies",
+        "GPA": "2.74/4.00",
+        "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
+      }
+    },
+    "Skills": {
+      "Table": {
+        "Languages": "PHP, MySQL, HTML, CSS, Javascript, Windows/Unix/Linux scripting, QBasic 4.5, Borland Turbo Pascal,7.0, Java, C, C++, Brainfuck, Atmel Assembly, VHDL, Python, Lua",
+        "Software": "Microsoft&nbsp;Office/Open&nbsp;Office/LibreOffice, Adobe&nbsp;InDesign, Photoshop&nbsp;5/7/CS/CS2, GIMP, ExpressPCB, OrCAD&nbsp;Lite, Quartus&nbsp;II, ModelSim, Matlab, Mathematica, Subversion, Mercurial, Git, Drupal",
+        "Operating Systems": "Linux, Windows, OS X, Unix",
+        "Spoken Languages": "German, 18 years of residence in Vienna, Austria."
+      }
+    },
+    "Technical Experience": {
+      "Timeline": {
+        "Project Architect (Second School Quarter, 2008)": "Coordinated, analyzed, designed and developed in a team for a movie rental system in C++.",
+        "Web Developer (Intermittent)": "Wrote, hosted and maintained many websites over the years using modern technologies.",
+        "Lead Developer, (Summer 2008 &mdash; Present)": "Designed, developed and contributed to a PHP/MySQL server side development platform that incorporates the use of reusable modules."
+      }
+    },
+    "Professional Experience": {
+      "Timeline": {
+        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new the library system, upgraded the internal server, developed platform for an e-commerce website.",
+        "Open Publishing Lab at RIT (Present)": "Developing software in PHP/MySQL and XML for a printing job system. Team Oriented with milestones via a wiki, trac and subversion."
+      }
+    },
+    "Activites": {
+      "Paragraph": [
+        "Postpunk Band (Guitar, Vocals and Composition), Running, Video Games, RITSMA (RIT Student Music Association) Member, Software Development in Teams"
+      ]
+    }
+  }
+}

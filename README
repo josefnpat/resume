@@ -1,5 +1,14 @@
 This is Josef Patoprsty's Open Source Résumé.
 
-Originally I made word documents.
-I considered making a LaTeX document.
-So I compromised and made a website.
+Building
+========
+
+Run ./build.sh
+
+Dependencies
+============
+
+* wkhtmltopdf 0.9.9 (for precision, attempt to use this version)
+* PHP 5.3.5-1ubuntu7.7 (php 4+ would probably work fine)
+* Open Sans font (see ~/fonts/OpenSans-Regular.ttf)
+* git (for commit info)
