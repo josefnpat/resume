@@ -93,8 +93,8 @@ body {
 #github {
   line-height: 12pt;
   position:absolute;
-  right: 145pt;
-  text-align: right;
+  left: 200pt;
+  text-align: left;
   top: 1037pt; /* 1061 - 12 * 2 */
   font-size:10pt;
   font-style:italic;
