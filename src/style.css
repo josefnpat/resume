@@ -76,6 +76,7 @@ body {
 }
 #sections .section table td.r {
   line-height: 14pt;
+  padding-bottom: 3pt;
 }
 #sections .section table tr {}
 #sections .section .timeline {}
