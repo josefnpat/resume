@@ -5,10 +5,10 @@
       "seppi@josefnpat.com"
     ],
     "Telephone Number": [
-      "Cell: (616) 990 1604"
+      "(616) 990 1604"
     ],
     "Permanent Address": [
-      "474b Clay Road",
+      "474 Clay Road, Apt. B",
       "Rochester, New York, 14623",
       "United States of America"
     ]
@@ -16,7 +16,7 @@
   "sections": {
     "Objective": {
       "Paragraph": [
-        "To obtain a position in the field of Computer Engineeringing, Computer Science, Web Development or Game Development."
+        "To obtain a position in the field of Web&nbsp;Development, Computer&nbsp;Engineering, Computer&nbsp;Science or Game&nbsp;Development."
       ]
     },
     "Education": {
@@ -25,34 +25,35 @@
         "Bachelor of Science": "Computer Engineering Technology",
         "Minor": "Computer Science",
         "Concentration": "Writing Studies",
-        "GPA": "2.74/4.00",
         "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
       }
     },
     "Skills": {
       "Table": {
         "Languages": "PHP, MySQL, HTML, CSS, Javascript, Windows/Unix/Linux scripting, QBasic 4.5, Borland Turbo Pascal,7.0, Java, C, C++, Brainfuck, Atmel Assembly, VHDL, Python, Lua",
-        "Software": "Microsoft&nbsp;Office/Open&nbsp;Office/LibreOffice, Adobe&nbsp;InDesign, Photoshop&nbsp;5/7/CS/CS2, GIMP, ExpressPCB, OrCAD&nbsp;Lite, Quartus&nbsp;II, ModelSim, Matlab, Mathematica, Subversion, Mercurial, Git, Drupal",
-        "Operating Systems": "Linux, Windows, OS X, Unix",
+        "Software": "Libre, Open and Microsoft&nbsp;Office, GIMP, Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Git, Mercurial, Subversion, Drupal 6 & 7, Wordpress",
+        "Operating Systems": "Linux (Many Variants), Windows, OS X, Unix",
         "Spoken Languages": "German, 18 years of residence in Vienna, Austria."
-      }
-    },
-    "Technical Experience": {
-      "Timeline": {
-        "Project Architect (Second School Quarter, 2008)": "Coordinated, analyzed, designed and developed in a team for a movie rental system in C++.",
-        "Web Developer (Intermittent)": "Wrote, hosted and maintained many websites over the years using modern technologies.",
-        "Lead Developer, (Summer 2008 &mdash; Present)": "Designed, developed and contributed to a PHP/MySQL server side development platform that incorporates the use of reusable modules."
       }
     },
     "Professional Experience": {
       "Timeline": {
-        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new the library system, upgraded the internal server, developed platform for an e-commerce website.",
-        "Open Publishing Lab at RIT (Present)": "Developing software in PHP/MySQL and XML for a printing job system. Team Oriented with milestones via a wiki, trac and subversion."
+        "Co-Op and Full Time at Open Publishing Lab at RIT (2011 &rarr; Present)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
+        "Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
+        "Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
+        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new the library system, upgraded the internal server, developed platform for an e-commerce website."
       }
     },
-    "Activites": {
+    "Technical Experience": {
+      "Timeline": {
+        "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies.",
+        "Advocate of Open Source Software":"Authored multiple projects and pushed to others.",
+        "Project Architect (Second School Quarter, 2008)": "Coordinated, analyzed, designed and developed in a team for a movie rental system in C++."
+      }
+    },
+    "Activities": {
       "Paragraph": [
-        "Postpunk Band (Guitar, Vocals and Composition), Running, Video Games, RITSMA (RIT Student Music Association) Member, Software Development in Teams"
+        "Stage Performance with guitar and vocals, Independent Video Game Software Development"
       ]
     }
   }
