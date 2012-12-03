@@ -38,7 +38,8 @@
     },
     "Professional Experience": {
       "Timeline": {
-        "Co-Op and Full Time at Open Publishing Lab at RIT (2011 &rarr; Present)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
+        "Software Engineer at Red Bottle Design (2012 &rarr; Present)":"High touch drupal development and server configuration.",
+        "Co-Op and Full Time at Open Publishing Lab at RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
         "Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
         "Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
         "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new the library system, upgraded the internal server, developed platform for an e-commerce website."
@@ -53,7 +54,8 @@
     },
     "Activities": {
       "Paragraph": [
-        "Stage Performance with guitar and vocals, Independent Video Game Software Development"
+        "Stage Performance with guitar/vocals",
+        "Independent Video Game Software Development"
       ]
     }
   }
