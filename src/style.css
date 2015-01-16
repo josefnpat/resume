@@ -43,7 +43,7 @@ body {
 
 #sections {}
 #sections .section {
-  padding-top: 8pt;
+  padding-top: 4pt;
   padding-bottom: 4pt;
   border-top: 1pt dotted #444;
   margin-left: 230pt;
@@ -87,7 +87,7 @@ body {
 #sections .section .timeline .time {}
 #sections .section .timeline .time .key {
   font-style: italic;
-  line-height: 18pt;
+  line-height: 17pt;
 }
 #sections .section .timeline .time .value {
   background-image:url("timeline.gif");
