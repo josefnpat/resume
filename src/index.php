@@ -10,7 +10,7 @@ $data = json_decode($json); ?>
   </head>
   <body>
     <div id="pagewrap">
-      <div id="github">Rendered from github.com/josefnpat/resume<br \><?php echo `git log --pretty=format:'%aD [git:%h]' -n 1`; ?></div>
+      <div id="github">Rendered from http://github.com/josefnpat/resume<br \><?php echo `git log --pretty=format:'%aD [git:%h]' -n 1`; ?></div>
       <div id="monster"></div>
       <div id="sidebar">
         <div id="name"><?php echo $data->name; ?></div>

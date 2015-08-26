@@ -8,10 +8,8 @@
       "(616) 990 1604"
     ],
     "Permanent Address": [
-      "RedBottle Design, LLC",
-      "250-B Lucius Gordon Drive",
-      "Suite #4B",
-      "West Henrietta, NY, 14586"
+      "3471 Lakewood Dr",
+      "Twin Lake, MI, 49457"
     ]
   },
   "sections": {
@@ -31,33 +29,30 @@
     },
     "Skills": {
       "Table": {
-        "Languages": "PHP, MySQL, HTML, CSS, Javascript, Windows/Unix/Linux scripting, QBasic 4.5, Borland Turbo Pascal 7.0, Java, C, C++, Brainfuck, Atmel Assembly, VHDL, Python, Lua",
-        "Software": "Libre, Open and Microsoft&nbsp;Office, GIMP, Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Git, Mercurial, Subversion, TeamCity, Drupal 6 & 7, Aegir, Wordpress, Apache, Nginx",
+        "Languages": "PHP, Lua, MySQL, HTML, CSS, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
+        "Software": "Drupal 6 & 7, Aegir, CodeIgniter, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
         "Operating Systems": "Linux (Many Variants), Windows, OS X, Unix",
-        "Spoken Languages": "German, 18 years of residence in Vienna, Austria."
+        "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
       }
     },
     "Professional Experience": {
       "Timeline": {
-        "Software Engineer at Red Bottle Design (2012 &rarr; Present)":"High tech drupal development and deployment. Server deployment and maintenance. Lead developer of Starfire Lords: Genesis.",
-        "Co-Op and Full Time at Open Publishing Lab at RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
+        "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":"Git and deployment service integration, CodeIgniter development and Linux server deployment and maintenance.",
+        "Software Engineer at Red Bottle Design (2012 &rarr; Jan 2015)":"High tech drupal development and deployment. Linux server deployment and maintenance. Lead developer of Starfire Lords: Genesis.",
+        "Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
         "Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
         "Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
-        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new the library system, upgraded the internal server, developed platform for an e-commerce website."
+        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new library system, upgraded the internal server, developed platform for an e-commerce website."
       }
     },
     "Technical Experience": {
       "Timeline": {
+        "Video Game Development":"Independent and team based development using the L&Ouml;VE framework&nbsp;(25), Ren'Py&nbsp;(1) and Unity3D&nbsp;(1). Paid games available upon request. See&nbsp;http://MissingSentinelSoftware.com",
         "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies.",
-        "Advocate of Open Source Software":"Authored many projects and pushed to others. http://github.com/josefnpat/",
-        "High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop"
+        "Advocate of Open Source Software":"Authors and contributes. See&nbsp;http://github.com/josefnpat/",
+        "Attended High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop",
+        "Music Production and Recording":"Stage performance with guitar/vocals along with recording techniques"
       }
-    },
-    "Activities": {
-      "Paragraph": [
-        "Stage Performance with guitar/vocals",
-        "Solo and Team based Independent Video Game Development. See&nbsp;http://missingsentinelsoftware.com"
-      ]
     }
   }
 }
