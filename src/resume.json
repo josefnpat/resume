@@ -13,24 +13,22 @@
     ]
   },
   "sections": {
-    "Objective": {
-      "Paragraph": [
-        "To obtain a position in the field of Web&nbsp;Development, Computer&nbsp;Engineering, Computer&nbsp;Science or Game&nbsp;Development."
-      ]
-    },
-    "Education": {
-      "Header": "Rochester Institute of Technology, Rochester, New York &mdash; August 2011",
-      "Table": {
-        "Bachelor of Science": "Computer Engineering Technology",
-        "Minor": "Computer Science",
-        "Concentration": "Writing Studies",
-        "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
+    "Technical Experience": {
+      "Timeline": {
+        "Starfire Lords: Genesis (Video Game)": "Developed with RedBottle Design using L&Ouml;VE.",
+        "Collider and Hexapod Defense Force (Video Games)": "Developed with Binary Cocoa using L&Ouml;VE and love-android-sdl2",
+        "26+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
+        "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies.",
+        "Attended High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop",
+        "Advocate of Open Source Software":"Authors and contributes. See&nbsp;http://github.com/josefnpat/",
+        "Music Production and Recording":"Performs guitar and vocals, both live and recorded."
       }
     },
     "Skills": {
       "Table": {
         "Languages": "PHP, Lua, MySQL, HTML, CSS, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
-        "Software": "Drupal 6 & 7, Aegir, CodeIgniter, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
+        "Software": "Aegir, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
+        "Frameworks": "L&Ouml;VE, Unity3D, Drupal 6 & 7, CodeIgniter",
         "Operating Systems": "Linux (Many Variants), Windows, OS X, Unix",
         "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
       }
@@ -39,19 +37,19 @@
       "Timeline": {
         "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":"Git and deployment service integration, CodeIgniter development and Linux server deployment and maintenance.",
         "Software Engineer at Red Bottle Design (2012 &rarr; Jan 2015)":"High tech drupal development and deployment. Linux server deployment and maintenance. Lead developer of Starfire Lords: Genesis.",
-        "Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
-        "Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
-        "Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
-        "Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new library system, upgraded the internal server, developed platform for an e-commerce website."
+        "Paid Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
+        "Paid Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
+        "Paid Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
+        "Paid Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new library system, upgraded the internal server, developed platform for an e-commerce website."
       }
     },
-    "Technical Experience": {
-      "Timeline": {
-        "Video Game Development":"Independent and team based development using the L&Ouml;VE framework&nbsp;(25), Ren'Py&nbsp;(1) and Unity3D&nbsp;(1). Paid games available upon request. See&nbsp;http://MissingSentinelSoftware.com",
-        "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies.",
-        "Advocate of Open Source Software":"Authors and contributes. See&nbsp;http://github.com/josefnpat/",
-        "Attended High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop",
-        "Music Production and Recording":"Stage performance with guitar/vocals along with recording techniques"
+    "Education": {
+      "Header": "Rochester Institute of Technology, Rochester, New York &mdash; August 2011",
+      "Table": {
+        "Bachelor of Science": "Computer Engineering Technology",
+        "Minor": "Computer Science",
+        "Concentration": "Writing Studies",
+        "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
       }
     }
   }
