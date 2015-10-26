@@ -6,6 +6,7 @@ This résumé builds itself:
 * Dynamically rendered in PHP (`~/src/index.php`)
 * Styled in CSS (`~/src/style.css`)
 * Rendered to PDF (wkhtmltopdf 0.11.0)
+* Embeds fonts into the PDF (gs 9.10)
 
 Dependencies
 ============
