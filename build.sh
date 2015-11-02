@@ -22,3 +22,4 @@ cd ..
 rm resume.pdf
 ln -s resume_${GIT}.pdf resume.pdf
 
+convert -density 300 resume_${GIT}.pdf -quality 100 resume_${GIT}.png
