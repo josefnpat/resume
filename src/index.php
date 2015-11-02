@@ -50,10 +50,16 @@ $data = json_decode($json); ?>
 <?php   } // end table
         if(isset($section->Timeline)){ ?>
           <div class="timeline">
-<?php     foreach($section->Timeline as $key => $value){?>
+<?php     foreach($section->Timeline as $key => $value){ ?>
             <div class="time">
               <div class="key"><?php echo $key; ?></div>
-              <div class="value"><?php echo $value; ?></div>
+<?php         if(is_array($value)){ ?>
+<?php           foreach($value as $newvalue){ ?>
+                  <div class="value"><?php echo $newvalue; ?></div>
+<?php           } ?>
+<?php         } else { ?>
+                <div class="value"><?php echo $value; ?></div>
+<?php         } ?>
             </div> <!-- end time -->
 <?php     } ?>
           </div> <!-- end timeline -->
