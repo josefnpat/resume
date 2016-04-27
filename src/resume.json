@@ -11,7 +11,8 @@
   "sections": {
     "Professional Experience": {
       "Timeline": {
-        "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":"Developed applications with CodeIgniter & PHP on Linux servers.",
+        "Senior Software Developer at GivePulse, Inc (Jan &rarr; March 2016)":"Developed and maintained the GivePulse service with Yii&nbsp;1.1 & PHP/MySQL on Amazon AWS servers using Git and GitHub.",
+        "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":"Developed applications with CodeIgniter & PHP/MySQL on Linux servers.",
         "Software Engineer at Red Bottle Design (2012 &rarr; Jan 2015)":[
           "Developed and deployed high tech websites using Drupal and PHP with TeamCity and Aegir.",
           "Deployed and maintained Linux servers and built custom Apache [S]RPM packages for CloudLinux/CentOS 6",
@@ -27,7 +28,7 @@
       "Table": {
         "Languages": "PHP, Lua, MySQL, HTML, CSS, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
         "Software": "Aegir, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
-        "Frameworks": "L&Ouml;VE, Unity3D, Drupal 6 & 7, CodeIgniter",
+        "Frameworks": "Drupal&nbsp;6&nbsp;&&nbsp;7, Yii&nbsp;1.1, CodeIgniter&nbsp;2.x, L&Ouml;VE, Unity3D",
         "Operating Systems": "Linux (Many Variants), Windows, OS X, Unix",
         "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
       }
@@ -45,7 +46,7 @@
       "Timeline": {
         "Starfire Lords: Genesis (Video Game)": "Developed with RedBottle Design using L&Ouml;VE.",
         "Collider and Hexapod Defense Force (Video Games)": "Developed with Binary Cocoa using L&Ouml;VE and love-android-sdl2",
-        "28+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
+        "32+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
         "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies such as Drupal and CodeIgniter.",
         "Took Part in the High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop",
         "Advocate of Open Source Software":"Authored and contributed. See&nbsp;http://github.com/josefnpat/"

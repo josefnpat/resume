@@ -54,12 +54,12 @@ body {
 }
 #sections .section .title {
   font-size: 14pt;
-  line-height: 18pt;
+  line-height: 14pt;
   font-weight: bold;
   color: #444;
 }
 #sections .section {
-  font-size: 11pt;
+  font-size: 10.5pt;
 }
 #sections .section .header {
   font-style: italic;
