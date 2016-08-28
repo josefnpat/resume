@@ -1,10 +1,21 @@
 <?php
-$json = file_get_contents('resume.json');
-$data = json_decode($json); ?>
+
+if(!isset($argv[1])){
+  die("Error: No json target supplied.\n");
+}
+if(!file_exists($argv[1])){
+  die("Error: json target `$argv[1]` does not exist.\n");
+}
+
+$json_data = file_get_contents($argv[1]);
+$data = json_decode($json_data);
+$json_shared = file_get_contents("shared.json");
+$shared = json_decode($json_shared);
+?>
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?php echo $data->name."'s R&eacute;sum&eacute;"; ?></title>
+    <title><?php echo $shared->name."'s R&eacute;sum&eacute;"; ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="style.css" type="text/css" />
   </head>
@@ -13,9 +24,9 @@ $data = json_decode($json); ?>
       <div id="github">Rendered from http://github.com/josefnpat/resume<br \><?php echo `git log --pretty=format:'%aD [git:%h]' -n 1`; ?></div>
       <div id="monster"></div>
       <div id="sidebar">
-        <div id="name"><?php echo $data->name; ?></div>
+        <div id="name"><?php echo $shared->name; ?></div>
         <div id="contacts">
-<?php foreach($data->contact as $contact){ ?>
+<?php foreach($shared->contact as $contact){ ?>
           <div class="contact">
             <ul>
 <?php   foreach($contact as $line){ ?>
