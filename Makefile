@@ -24,27 +24,27 @@ SRCS=${wildcard versions/*.json}
 all: aaa indie webdev
 
 aaa:
-	php index.php versions/aaa.json > aaa.html
-	${toimage} aaa.html aaa_${outimage}
-	${topdf} aaa.html ${temppdf}
+	php index.php versions/aaa.json > aaa_${gitv}.html
+	${toimage} aaa_${gitv}.html aaa_${outimage}
+	${topdf} aaa_${gitv}.html ${temppdf}
 	${ghostscript} -o aaa_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 indie:
-	php index.php versions/indie.json > indie.html
-	${toimage} indie.html indie_${outimage}
-	${topdf} indie.html ${temppdf}
+	php index.php versions/indie.json > indie_${gitv}.html
+	${toimage} indie_${gitv}.html indie_${outimage}
+	${topdf} indie_${gitv}.html ${temppdf}
 	${ghostscript} -o indie_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 webdev:
-	php index.php versions/webdev.json > webdev.html
-	${toimage} webdev.html webdev_${outimage}
-	${topdf} webdev.html ${temppdf}
+	php index.php versions/webdev.json > webdev_${gitv}.html
+	${toimage} webdev_${gitv}.html webdev_${outimage}
+	${topdf} webdev_${gitv}.html ${temppdf}
 	${ghostscript} -o webdev_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 clean:
-	rm aaa.html
-	rm indie.html
-	rm webdev.html
+	rm aaa_${gitv}.html
+	rm indie_${gitv}.html
+	rm webdev_${gitv}.html
 	rm ${temppdf}
 	rm aaa_${outpdf}
 	rm indie_${outpdf}
