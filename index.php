@@ -62,16 +62,18 @@ $shared = json_decode($json_shared);
         if(isset($section->Timeline)){ ?>
           <div class="timeline">
 <?php     foreach($section->Timeline as $key => $value){ ?>
-            <div class="time">
-              <div class="key"><?php echo $key; ?></div>
-<?php         if(is_array($value)){ ?>
-<?php           foreach($value as $newvalue){ ?>
-                  <div class="value"><?php echo $newvalue; ?></div>
+<?php       if(substr($key,0,9)!="disabled:"){ ?>
+              <div class="time">
+                <div class="key"><?php echo $key; ?></div>
+<?php           if(is_array($value)){ ?>
+<?php             foreach($value as $newvalue){ ?>
+                    <div class="value"><?php echo $newvalue; ?></div>
+<?php             } ?>
+<?php           } else { ?>
+                  <div class="value"><?php echo $value; ?></div>
 <?php           } ?>
-<?php         } else { ?>
-                <div class="value"><?php echo $value; ?></div>
-<?php         } ?>
-            </div> <!-- end time -->
+              </div> <!-- end time -->
+<?php       } ?>
 <?php     } ?>
           </div> <!-- end timeline -->
 <?php   } // end timeline ?>
