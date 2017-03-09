@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "Professional Experience": {
+      "Timeline": {
+        "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
+          "Prototyped and developed video games with a small team targeting the Wii U platform using C# and Unity3D",
+          "Managed project in preperation for release on digital distribution platoform, Steam"
+        ],
+        "Chief Technical Officer at Snow Penguin Studios (Spring &rarr; Summer 2016)":[
+          "Prototyped and developed the business website (SnowPenguinStudios.com). Designed and performed usability testing.",
+          "Drafted project propositions and created project cost estimations for potential clients."
+        ],
+        "Senior Software Developer at GivePulse, Inc (Jan &rarr; March 2016)":[
+          "Developed and maintained the GivePulse service with MVC Yii&nbsp;1.1 Framework & PHP/MySQL on Amazon AWS servers using Git and GitHub.",
+          "Created and deployed a Virtual Machine to closely match the Amazon AWS servers for internal development, including tools such as phpMyAdmin, node.js with Grunt and memory profiling tools."
+        ],
+        "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":[
+          "Developed applications with MVC CodeIgniter Framework & PHP/MySQL on GNU/Linux servers.",
+          "Consolidated and fortified development workflow",
+          "Implemented LNMP Virtual Private Servers using CentOS for Git hosting via GitLab",
+          "Set up a temporary deployment workflow using Cron, Git and Bash",
+          "Extended and integrated WSDL XML Protocol communication libraries for credit card payments via the Ingenico POS systems.",
+          "Created backup workflow for codebase, server data and MySQL database."
+        ],
+        "Software Engineer at Red Bottle Design, LLC (2012 &rarr; Jan 2015)":[
+          "Developed and deployed high tech websites using Drupal, Drupal Profiles and PHP with Mercurial, TeamCity and Aegir.",
+          "Deployed and maintained GNU/Linux servers and built custom Apache [S]RPM packages for CloudLinux/CentOS 6.",
+          "Developed JQuery libraries with Drupal for prestigious small businesses such as Max Rochester.",
+          "Created custom Drupal Modules for client specific workflows.",
+          "Debugged and patched open source Drupal modules.",
+          "Lead designer and developer of Starfire Lords: Genesis using Agile and the L&Ouml;VE framework with LuaJIT2."
+        ],
+        "Paid Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":[
+          "Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL.",
+          "Assisted development with RISE (live event journalism) in Drupal 6 using OpenAtrium and Mercurial.",
+          "Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git."
+        ],
+        "Paid Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
+        "Paid Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
+        "Paid Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new library system, upgraded the internal server, developed platform for an e-commerce website."
+      }
+    },
+    "Skills": {
+      "Table": {
+        "Languages": "PHP 4/5/7, MySQL 5.x, Lua 5.x, HTML 4/5, CSS 1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, C#, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python 2/3, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
+        "MVC Frameworks":"Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
+        "Frameworks": "Drupal&nbsp;5,&nbsp;6,&nbsp;7&nbsp;&&nbsp;8, JQuery, Unity3D, L&Ouml;VE",
+        "Professional Experience": "Back End Linux/PHP/MySQL/Apache (8 years), Front End HTML/CSS/JavaScript (8 Years), Drupal (7 Years), *NIX Environments (7 Years)",
+        "Operating Systems": "GNU/Linux (Many Variants such as Arch, Debian, Ubuntu, CentOS, CloudLinux), Windows XP/7/10, macOS, Android, Unix",
+        "Software": "Git, Mercurial, Subversion, TeamCity, Aegir, Wordpress, Apache, Nginx, Valgrind&nbsp;CacheGrind, KCacheGrind, GIMP&nbsp;2.x, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
+        "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
+      }
+    },
+    "Education": {
+      "Header": "Rochester Institute of Technology, Rochester, New York &mdash; August 2011",
+      "Table": {
+        "Bachelor of Science": "Computer Engineering Technology",
+        "Minor": "Computer Science",
+        "Concentration": "Writing Studies",
+        "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
+      }
+    },
+    "Technical Experience": {
+      "Timeline": {
+        "Collider and Hexapod Defense Force (Video Games)": "Developed with Binary Cocoa using L&Ouml;VE and love-android-sdl2",
+        "Starfire Lords: Genesis (Video Game)": "Developed with RedBottle Design using L&Ouml;VE.",
+        "32+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
+        "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies such as Drupal and CodeIgniter.",
+        "Took Part in the High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop.",
+        "Advocate of Open Source Software":"Authored and contributed. See&nbsp;http://github.com/josefnpat/"
+      }
+    }
+  }
+}

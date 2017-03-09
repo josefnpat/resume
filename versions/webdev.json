@@ -2,6 +2,10 @@
   "sections": {
     "Professional Experience": {
       "Timeline": {
+        "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
+          "Prototyped and developed video games with a small team targeting the Wii U platform using C# and Unity3D",
+          "Managed project in preperation for release on digital distribution platoform, Steam"
+        ],
         "Chief Technical Officer at Snow Penguin Studios (Spring &rarr; Summer 2016)":[
           "Prototyped and developed the business website (SnowPenguinStudios.com). Designed and performed usability testing.",
           "Drafted project propositions and created project cost estimations for potential clients."
@@ -15,8 +19,7 @@
         ],
         "Paid Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":"Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL. Assisted development with Rise (live event journalism) in Drupal 6 using OpenAtrium and Mercurial. Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
         "Paid Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
-        "Paid Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
-        "Paid Co-Op at Lawrence Productions (Summer 2009)": "Performed network analysis, designed and developed a new library system, upgraded the internal server, developed platform for an e-commerce website."
+        "Paid Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival."
       }
     },
     "Skills": {
@@ -24,8 +27,8 @@
         "Languages": "PHP 4/5/7, MySQL 5.x, Lua 5.x, HTML 4/5, CSS 1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python 2, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
         "MVC Frameworks":"Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
         "Frameworks": "Drupal&nbsp;6,&nbsp;7&nbsp;&&nbsp;8, L&Ouml;VE, Unity3D",
-        "Operating Systems": "Linux (Many Variants), Windows, OS X, Android && Unix",
-        "Software": "Aegir, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
+        "Operating Systems": "Linux (Many Variants), Windows, macOS, Android && Unix",
+        "Software": "Aegir, Git, Mercurial, Subversion, TeamCity, Wordpress, Apache, Nginx, GIMP, Adobe&nbsp;Photoshop, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
         "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
       }
     },
@@ -42,7 +45,7 @@
       "Timeline": {
         "disabled:Starfire Lords: Genesis (Video Game)": "Developed with RedBottle Design using L&Ouml;VE.",
         "disabled:Collider and Hexapod Defense Force (Video Games)": "Developed with Binary Cocoa using L&Ouml;VE and love-android-sdl2",
-        "32+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
+        "35+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D, PICO-8 and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
         "disabled:Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies such as Drupal and CodeIgniter.",
         "Took Part in the High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop.",
         "Advocate of Open Source Software":"Authored and contributed. See&nbsp;http://github.com/josefnpat/"
