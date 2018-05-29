@@ -2,19 +2,39 @@
   "sections": {
     "Professional Experience": {
       "Timeline": {
-        "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
-          "Prototyped and developed video games with a small team targeting the Wii U platform using C# and Unity3D",
-          "Managed project in preperation for release on digital distribution platoform, Steam"
+        "Contract Associate Software Engineer at Certain Affinity (May 2017 &rarr; June 2018)":[
+		  "Fulfilled multiple contracts for Wargaming Group Limited on World of Tanks product.",
+		  "Developed features for Client with Actionscript 2/3 using Scaleform GFx and Python 2.7.",
+		  "Implemented designs from Certain Affinity and Wargaming designers to specification.",
+		  "Triaged JIRA tickets, Confluence documentation maintained, Fisheye reviews executed.",
+		  "Deployed features and bug fixes in weekly sprints.",
+		  "Won \"Most Creative\" for \"CA Team Gingerbread Team House Building\" contest."
         ],
-        "Chief Technical Officer at Snow Penguin Studios (Spring &rarr; Summer 2016)":[
+		"Chief Executive Officer at Missing Sentinel Software (2011 &rarr; Current)":[
+		  "Developed 50+ games with total 64,000+ downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request.",
+		  "Developed and Maintained distribution website using Drupal 7 with over 59,000 Downloads.",
+		  "Participated in 30+ Game Jams.",
+		  "Worked with many people with many different disciplines.",
+		  "Scored highly in multiple Game Jams (Stoopid TV &mdash; Multiple Awards, RogueCraft Squadron &mdash; #3 overall at L&Ouml;VE Jam, Outlaws of Cygnus &mdash; Honorable Mention in Austin Chronicle, The Career of Peter &mdash; Best Art by Pico Chat Podcast, Get Off, Cat! &mdash; #2 Humor at Ludum Dare)",
+		  "Used the L&Ouml;VE framework, Unity3D Engine, Unreal Engine, Ren'Py engine, Pico8 Fantasy Console, and the TIC-80 fantasy console."
+        ],
+        "Teacher at Game Worlds Camp (Summer 2017)":[
+			"Developed and maintained a clean game and slides for rapid development and learning of how to make games with the L&Ouml;VE framework."
+        ],
+        "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
+          "Prototyped and developed video games with a small team targeting the Wii U platform using C# and Unity3D.",
+          "Managed project in preparation for release on digital distribution platform, Steam.",
+		  "Game was released on steam in The Blue Box."
+        ],
+        "Chief Technical Officer at Snow Penguin Studios (Spring 2016 &rarr; Summer)":[
           "Prototyped and developed the business website (SnowPenguinStudios.com). Designed and performed usability testing.",
           "Drafted project propositions and created project cost estimations for potential clients."
         ],
-        "Senior Software Developer at GivePulse, Inc (Jan &rarr; March 2016)":[
+        "Senior Software Developer at GivePulse, Inc (Jan 2016 &rarr; March)":[
           "Developed and maintained the GivePulse service with MVC Yii&nbsp;1.1 Framework & PHP/MySQL on Amazon AWS servers using Git and GitHub.",
           "Created and deployed a Virtual Machine to closely match the Amazon AWS servers for internal development, including tools such as phpMyAdmin, node.js with Grunt and memory profiling tools."
         ],
-        "Software Engineer Contractor (Jan 2015 &rarr; June 2015)":[
+        "Software Engineer Contractor (Jan 2015 &rarr; June)":[
           "Developed applications with MVC CodeIgniter Framework & PHP/MySQL on GNU/Linux servers.",
           "Consolidated and fortified development workflow",
           "Implemented LNMP Virtual Private Servers using CentOS for Git hosting via GitLab",
@@ -22,7 +42,11 @@
           "Extended and integrated WSDL XML Protocol communication libraries for credit card payments via the Ingenico POS systems.",
           "Created backup workflow for codebase, server data and MySQL database."
         ],
-        "Software Engineer at Red Bottle Design, LLC (2012 &rarr; Jan 2015)":[
+		"Contract Software Engineer at Binary Cocoa (Intermittent 2014 &rarr; 2015)":[
+		  "Developed, designed and released Collider on Steam and Humble Indie Bundle in collaboration with Binary Cocoa.",
+		  "Optimized Hexapod Defense Force for Android and Steam and Humble Indie Bundle release using L&Ouml;VE and love-android-sdl2"
+		],
+        "Software Engineer at Red Bottle Design, LLC (2012 &rarr; 2015)":[
           "Developed and deployed high tech websites using Drupal, Drupal Profiles and PHP with Mercurial, TeamCity and Aegir.",
           "Deployed and maintained GNU/Linux servers and built custom Apache [S]RPM packages for CloudLinux/CentOS 6.",
           "Developed JQuery libraries with Drupal for prestigious small businesses such as Max Rochester.",
@@ -42,12 +66,11 @@
     },
     "Skills": {
       "Table": {
-        "Languages": "PHP 4/5/7, MySQL 5.x, Lua 5.x, HTML 4/5, CSS 1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, C#, Brainfuck, Atmel&nbsp;Assembly, VHDL, Python 2/3, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
-        "MVC Frameworks":"Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
-        "Frameworks": "Drupal&nbsp;5,&nbsp;6,&nbsp;7&nbsp;&&nbsp;8, JQuery, Unity3D, L&Ouml;VE",
+        "Languages": "Actionscript 2/3, Python 2.7/3, PHP 4/5/7, MySQL 5.x, Lua 5.x, HTML 4/5, CSS 1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, C#, Brainfuck, Atmel&nbsp;Assembly, VHDL, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
+        "Frameworks": "Scaleform GFx, Unreal, Unity3D, L&Ouml;VE, PICO8, TIC-80, Drupal&nbsp;5,&nbsp;6,&nbsp;7&nbsp;&&nbsp;8, JQuery, Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
         "Professional Experience": "Back End Linux/PHP/MySQL/Apache (8 years), Front End HTML/CSS/JavaScript (8 Years), Drupal (7 Years), *NIX Environments (7 Years)",
         "Operating Systems": "GNU/Linux (Many Variants such as Arch, Debian, Ubuntu, CentOS, CloudLinux), Windows XP/7/10, macOS, Android, Unix",
-        "Software": "Git, Mercurial, Subversion, TeamCity, Aegir, Wordpress, Apache, Nginx, Valgrind&nbsp;CacheGrind, KCacheGrind, GIMP&nbsp;2.x, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
+        "Software": "Maven, Fisheye, Confluence, JIRA, IntelliJ, PyCharm, vim, Git, Mercurial, Subversion, Perforce, TeamCity, Aegir, Wordpress, Apache, Nginx, Valgrind&nbsp;CacheGrind, KCacheGrind, GIMP&nbsp;2.x, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
         "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
       }
     },
@@ -62,10 +85,6 @@
     },
     "Technical Experience": {
       "Timeline": {
-        "Collider and Hexapod Defense Force (Video Games)": "Developed with Binary Cocoa using L&Ouml;VE and love-android-sdl2",
-        "Starfire Lords: Genesis (Video Game)": "Developed with RedBottle Design using L&Ouml;VE.",
-        "32+ Ludum Dare and 1GAM entries (Video Games)":"Developed independently and with teams of other developers and artists using L&Ouml;VE, Unity3D and Ren'Py. See games at &nbsp;http://MissingSentinelSoftware.com. <i>Paid games available upon request.</i>",
-        "Web developer": "Wrote, hosted and maintained many websites over the years using modern technologies such as Drupal and CodeIgniter.",
         "Took Part in the High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop.",
         "Advocate of Open Source Software":"Authored and contributed. See&nbsp;http://github.com/josefnpat/"
       }
