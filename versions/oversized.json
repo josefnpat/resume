@@ -3,28 +3,29 @@
     "Professional Experience": {
       "Timeline": {
         "Contract Associate Software Engineer at Certain Affinity (May 2017 &rarr; June 2018)":[
-		  "Fulfilled multiple contracts for Wargaming Group Limited on World of Tanks product.",
-		  "Developed features for Client with Actionscript 2/3 using Scaleform GFx and Python 2.7.",
-		  "Implemented designs from Certain Affinity and Wargaming designers to specification.",
-		  "Triaged JIRA tickets, Confluence documentation maintained, Fisheye reviews executed.",
-		  "Deployed features and bug fixes in weekly sprints.",
-		  "Won \"Most Creative\" for \"CA Team Gingerbread Team House Building\" contest."
+          "Fulfilled multiple contracts for Wargaming Group Limited on World of Tanks.",
+          "Developed features with Actionscript 2/3 using Scaleform GFx and Python 2.7.",
+          "Implemented designs from Certain Affinity and Wargaming designers to specification.",
+          "Triaged JIRA tickets, maintained Confluence documentation, Fisheye peer code reviews executed.",
+          "Deployed features and bug fixes in weekly sprints.",
+          "Mentored other developers in Actionscript 2/3 and Scaleform GFx.",
+          "Won \"Most Creative\" for \"CA Team Gingerbread Team House Building\" contest."
         ],
-		"Chief Executive Officer at Missing Sentinel Software (2011 &rarr; Current)":[
-		  "Developed 50+ games with total 64,000+ downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request.",
-		  "Developed and Maintained distribution website using Drupal 7 with over 59,000 Downloads.",
-		  "Participated in 30+ Game Jams.",
-		  "Worked with many people with many different disciplines.",
-		  "Scored highly in multiple Game Jams (Stoopid TV &mdash; Multiple Awards, RogueCraft Squadron &mdash; #3 overall at L&Ouml;VE Jam, Outlaws of Cygnus &mdash; Honorable Mention in Austin Chronicle, The Career of Peter &mdash; Best Art by Pico Chat Podcast, Get Off, Cat! &mdash; #2 Humor at Ludum Dare)",
-		  "Used the L&Ouml;VE framework, Unity3D Engine, Unreal Engine, Ren'Py engine, Pico8 Fantasy Console, and the TIC-80 fantasy console."
+    "Chief Executive Officer at Missing Sentinel Software (2011 &rarr; Current)":[
+      "Developed 50+ games with total 64,000+ downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request.",
+      "Developed and Maintained distribution website using Drupal 7 with over 59,000 Downloads.",
+      "Participated in 30+ Game Jams.",
+      "Worked with many people with many different disciplines.",
+      "Scored highly in multiple Game Jams (Stoopid TV &mdash; Multiple Awards, RogueCraft Squadron &mdash; #3 overall at L&Ouml;VE Jam, Outlaws of Cygnus &mdash; Honorable Mention in Austin Chronicle, The Career of Peter &mdash; Best Art by Pico Chat Podcast, Get Off, Cat! &mdash; #2 Humor at Ludum Dare)",
+      "Used the L&Ouml;VE framework, Unity3D Engine, Unreal Engine, Ren'Py engine, Pico8 Fantasy Console, and the TIC-80 fantasy console."
         ],
         "Teacher at Game Worlds Camp (Summer 2017)":[
-			"Developed and maintained a clean game and slides for rapid development and learning of how to make games with the L&Ouml;VE framework."
+          "Developed and maintained a clean game and slides for rapid development and learning of how to make games with the L&Ouml;VE framework."
         ],
         "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
           "Prototyped and developed video games with a small team targeting the Wii U platform using C# and Unity3D.",
           "Managed project in preparation for release on digital distribution platform, Steam.",
-		  "Game was released on steam in The Blue Box."
+          "Game was released on steam in The Blue Box."
         ],
         "Chief Technical Officer at Snow Penguin Studios (Spring 2016 &rarr; Summer)":[
           "Prototyped and developed the business website (SnowPenguinStudios.com). Designed and performed usability testing.",
@@ -36,28 +37,28 @@
         ],
         "Software Engineer Contractor (Jan 2015 &rarr; June)":[
           "Developed applications with MVC CodeIgniter Framework & PHP/MySQL on GNU/Linux servers.",
-          "Consolidated and fortified development workflow",
-          "Implemented LNMP Virtual Private Servers using CentOS for Git hosting via GitLab",
-          "Set up a temporary deployment workflow using Cron, Git and Bash",
+          "Employed new nad better development workflows.",
+          "Implemented LNMP Virtual Private Servers using CentOS for Git hosting via GitLab.",
+          "Set up a temporary deployment workflow using Cron, Git and Bash.",
           "Extended and integrated WSDL XML Protocol communication libraries for credit card payments via the Ingenico POS systems.",
           "Created backup workflow for codebase, server data and MySQL database."
         ],
-		"Contract Software Engineer at Binary Cocoa (Intermittent 2014 &rarr; 2015)":[
-		  "Developed, designed and released Collider on Steam and Humble Indie Bundle in collaboration with Binary Cocoa.",
-		  "Optimized Hexapod Defense Force for Android and Steam and Humble Indie Bundle release using L&Ouml;VE and love-android-sdl2"
-		],
+        "Contract Software Engineer at Binary Cocoa (Intermittent 2014 &rarr; 2015)":[
+          "Developed, designed and released Collider on Steam and Humble Indie Bundle in collaboration with Binary Cocoa.",
+          "Optimized Hexapod Defense Force for Android and Steam and Humble Indie Bundle release using L&Ouml;VE and love-android-sdl2."
+        ],
         "Software Engineer at Red Bottle Design, LLC (2012 &rarr; 2015)":[
+          "Lead designer and developer of Starfire Lords: Genesis using Agile and the L&Ouml;VE framework with LuaJIT2.",
           "Developed and deployed high tech websites using Drupal, Drupal Profiles and PHP with Mercurial, TeamCity and Aegir.",
           "Deployed and maintained GNU/Linux servers and built custom Apache [S]RPM packages for CloudLinux/CentOS 6.",
           "Developed JQuery libraries with Drupal for prestigious small businesses such as Max Rochester.",
           "Created custom Drupal Modules for client specific workflows.",
-          "Debugged and patched open source Drupal modules.",
-          "Lead designer and developer of Starfire Lords: Genesis using Agile and the L&Ouml;VE framework with LuaJIT2."
+          "Debugged and patched open source Drupal modules."
         ],
         "Paid Co-Op and Full Time at Open Publishing Lab, RIT (2011 &rarr; 2012)":[
+          "Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git.",
           "Maintained prototype version of BookBag (RIT-aware resource discovery tool) in PHP/MySQL.",
-          "Assisted development with RISE (live event journalism) in Drupal 6 using OpenAtrium and Mercurial.",
-          "Lead Developer of current version of BookBag in Drupal 6 using OpenAtrium and Git."
+          "Assisted development with RISE (live event journalism) in Drupal 6 using OpenAtrium and Mercurial."
         ],
         "Paid Co-Op at Digital Publishing Center, RIT (2010 &rarr; 2011)":"Maintained and themed for Digital Asset Management system, Xinet, and wrote custom code to improve work flow in PHP/MySQL and javascript.",
         "Paid Co-Op Open Publishing Lab, RIT (2009 &rarr; 2010)": "Developed software in PHP/MySQL and XML for Drop2Print (printing job system). Team Oriented with trac and subversion. Won the Flower City award for best innovation in print publishing technology at the Imagine RIT Festival.",
@@ -67,8 +68,8 @@
     "Skills": {
       "Table": {
         "Languages": "Actionscript 2/3, Python 2.7/3, PHP 4/5/7, MySQL 5.x, Lua 5.x, HTML 4/5, CSS 1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, C#, Brainfuck, Atmel&nbsp;Assembly, VHDL, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
-        "Frameworks": "Scaleform GFx, Unreal, Unity3D, L&Ouml;VE, PICO8, TIC-80, Drupal&nbsp;5,&nbsp;6,&nbsp;7&nbsp;&&nbsp;8, JQuery, Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
-        "Professional Experience": "Back End Linux/PHP/MySQL/Apache (8 years), Front End HTML/CSS/JavaScript (8 Years), Drupal (7 Years), *NIX Environments (7 Years)",
+        "Frameworks": "L&Ouml;VE, Scaleform GFx, PICO-8, TIC-80, Drupal&nbsp;5/6/7/8, Unreal, Unity3D, JQuery, Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
+        "Professional Experience": "Actionscript 2/3 w/ Scaleform GFx (1 year), Python 2.7 (1.5 years), Back End Linux/PHP/MySQL/Apache (8 years), Front End HTML/CSS/JavaScript (8 Years), Drupal (7 Years), *NIX Environments (7 Years)",
         "Operating Systems": "GNU/Linux (Many Variants such as Arch, Debian, Ubuntu, CentOS, CloudLinux), Windows XP/7/10, macOS, Android, Unix",
         "Software": "Maven, Fisheye, Confluence, JIRA, IntelliJ, PyCharm, vim, Git, Mercurial, Subversion, Perforce, TeamCity, Aegir, Wordpress, Apache, Nginx, Valgrind&nbsp;CacheGrind, KCacheGrind, GIMP&nbsp;2.x, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
         "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
@@ -83,7 +84,7 @@
         "Related Courses": "Technical&nbsp;Programming, Computer&nbsp;Science, Operating&nbsp;Systems, Computer&nbsp;Science&nbsp; Theory, Cryptography, Circuit&nbsp;Theory, Electronics, Differential&nbsp;Equations, Digital&nbsp;Fundamentals, Microcomputers, Digital&nbsp;System&nbsp;Design, Principles&nbsp;of&nbsp;Electronic&nbsp;Design&nbsp;and&nbsp;Automation, Effective&nbsp;Technical&nbsp;Communication, Advanced&nbsp;Electronics, Embedded&nbsp;System&nbsp;Design"
       }
     },
-    "Technical Experience": {
+    "Other Experience": {
       "Timeline": {
         "Took Part in the High Tech Rochester Launchpad Class of 2013":"Lean Startup workshop, modeled after Steve Blank's Lean Startup Workshop.",
         "Advocate of Open Source Software":"Authored and contributed. See&nbsp;http://github.com/josefnpat/"
