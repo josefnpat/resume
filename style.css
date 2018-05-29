@@ -4,7 +4,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 html {}
 body {
   /* background-color: #F00; /* Warning Guide. Use for debugging. */
-  font-family: "Open Sans";
+  font-family: "Droid Sans";
 }
 
 #pagewrap {
@@ -26,7 +26,7 @@ body {
 }
 
 #name {
-  font-size: 25pt;
+  font-size: 16pt;
   font-weight: bold;
   color: #000;
 }
@@ -37,7 +37,7 @@ body {
 }
 #contacts .contact ul {}
 #contacts .contact ul li {
-  font-size: 16pt;
+  font-size: 12pt;
   line-height: 18pt;
 }
 
@@ -46,7 +46,7 @@ body {
   padding-top: 4pt;
   padding-bottom: 4pt;
   border-top: 1pt dotted #444;
-  margin-left: 230pt;
+  margin-left: 150pt;
 }
 #sections .section:first-child {
   padding-top: 0pt;
@@ -59,10 +59,10 @@ body {
   color: #444;
 }
 #sections .section {
-  font-size: 10.5pt;
+  font-size: 12pt;
 }
 #sections .section .header {
-  font-style: italic;
+  font-style: bold;
   line-height: 24pt;
 }
 #sections .section .paragraph {
@@ -86,7 +86,7 @@ body {
 #sections .section .timeline {}
 #sections .section .timeline .time {}
 #sections .section .timeline .time .key {
-  font-style: italic;
+  font-weight: bold;
   line-height: 17pt;
 }
 #sections .section .timeline .time .value {
@@ -98,7 +98,7 @@ body {
 #github {
   line-height: 12pt;
   position:absolute;
-  left: 200pt;
+  left: 400pt;
   text-align: left;
   top: 1041pt; /* 1061 - 10 * 2 */
   font-size:10pt;
