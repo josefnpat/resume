@@ -26,8 +26,8 @@ all: aaa indie webdev oversized
 aaa:
 	php index.php versions/aaa.json > aaa_${gitv}.html
 	#${toimage} aaa_${gitv}.html aaa_${outimage}
-	${topdf} aaa_${gitv}.html ${temppdf}
-	${ghostscript} -o aaa_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
+	#${topdf} aaa_${gitv}.html ${temppdf}
+	#${ghostscript} -o aaa_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 indie:
 	php index.php versions/indie.json > indie_${gitv}.html
