@@ -21,34 +21,43 @@ outimage=resume_${gitv}.png
 
 SRCS=${wildcard versions/*.json}
 
-all: aaa indie webdev
+all: aaa indie webdev oversized
 
 aaa:
 	php index.php versions/aaa.json > aaa_${gitv}.html
-	${toimage} aaa_${gitv}.html aaa_${outimage}
+	#${toimage} aaa_${gitv}.html aaa_${outimage}
 	${topdf} aaa_${gitv}.html ${temppdf}
 	${ghostscript} -o aaa_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 indie:
 	php index.php versions/indie.json > indie_${gitv}.html
-	${toimage} indie_${gitv}.html indie_${outimage}
+	#${toimage} indie_${gitv}.html indie_${outimage}
 	${topdf} indie_${gitv}.html ${temppdf}
 	${ghostscript} -o indie_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 webdev:
 	php index.php versions/webdev.json > webdev_${gitv}.html
-	${toimage} webdev_${gitv}.html webdev_${outimage}
+	#${toimage} webdev_${gitv}.html webdev_${outimage}
 	${topdf} webdev_${gitv}.html ${temppdf}
 	${ghostscript} -o webdev_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
+
+oversized:
+	php index.php versions/oversized.json > oversized_${gitv}.html
+	#${toimage} oversized_${gitv}.html oversized_${outimage}
+	xvfb-run -a -s "-screen 0 640x480x16" ${topdf} oversized_${gitv}.html ${temppdf}
+	${ghostscript} -o oversized_${outpdf} -sDEVICE=pdfwrite -dEmbedAllFonts=true -sFONTPATH="./fonts" ${temppdf}
 
 clean:
 	rm aaa_${gitv}.html
 	rm indie_${gitv}.html
 	rm webdev_${gitv}.html
+	rm oversized_${gitv}.html
 	rm ${temppdf}
 	rm aaa_${outpdf}
 	rm indie_${outpdf}
 	rm webdev_${outpdf}
+	rm oversized_${outpdf}
 	rm aaa_${outimage}
 	rm indie_${outimage}
 	rm webdev_${outimage}
+	rm oversized_${outimage}
