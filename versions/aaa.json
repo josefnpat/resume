@@ -7,8 +7,8 @@
           "Established engineering standards, including PR workflows, code review guidelines and branching strategy for internal and external contributors.",
           "Architected and deployed multiplayer infrastructure using Unity Netcode (NGO) and headless server builds on AWS EC2.",
           "Sole engineer during late-stage development, owning all systems, integrations and technical decision-making.",
-          "Optimized VR performance from ~20 FPS to 72+ FPS, successfully passing Meta Quest VRC1 certification requirements.",
-          "Integrated OpenXR within Unity to power VR functionality on Meta Quest 2/3, aligning the project with modern XR standards."
+          "Integrated OpenXR within Unity to power VR functionality on Meta Quest 2/3, aligning the project with modern XR standards.",
+          "Optimized VR performance from ~20 FPS to 72+ FPS, successfully passing Meta Quest VRC1 certification requirements."
         ],
         "Software Engineer at SciPlay Corporation (Dec 2022 &rarr; May 2024)":[
           "Migrated Bingo Showdown's Diamond Jackpot Rewards to server-side logic via modern OOP refactor, eliminating client-side deployment requirements.",
@@ -20,32 +20,33 @@
         "Senior Software Engineer at Fusion Constructive, LLC (May 2019 &rarr; Oct 2021)":[
           "Developed flagship simulation product FUSION using Unity.",
           "Maintained Android augmented reality companion app to FUSION product using Unity.",
-          "Documented and implement coding standards, peer review systems, pull request workflows and git workflows using submodules.",
+          "Documented and implemented coding standards, peer review systems, pull request workflows and git workflows using submodules.",
           "Maintained CentOS Linux servers for local deployment of docker clusters.",
-          "DARPA/L3HARRIS SAFE-SIM Contract: Developed data visualization and 3D synthetic environment using Unity. Communicated with external teams to implement front end client interfaces in Unity with RESTful APIs."
+          "Developed data visualization and 3D synthetic environment using Unity for DARPA/L3HARRIS. Communicated with external teams to implement front end client interfaces in Unity with RESTful APIs."
         ],
         "Contract Software Engineer at Retora Game Studios (January 2019 &rarr; June 2019)":[
           "Developed an Android/iOS game using Corona and Lua called Space Merchant.",
           "Maintained and provided bugfixes to the codebase using SVN."
         ],
         "Contract Software Engineer at Black Hive Media (July 2018 &rarr; February 2019)":[
-          "Developed Android/iOS game using Unity and C# ith the Unity service, Collaborate.",
+          "Developed Android/iOS game using Unity and C# with the Unity service, Collaborate.",
           "Integrated and debugged rendered animations from animation software, Nima (2Dimensions)."
         ],
         "Contract Associate Software Engineer at Certain Affinity (May 2017 &rarr; June 2018)":[
           "Fulfilled multiple contracts for Wargaming Group Limited on World of Tanks.",
           "Developed features with Actionscript 2/3 using Scaleform GFx and Python 2.7.",
           "Implemented designs from Certain Affinity and Wargaming designers to specification.",
-          "Triaged JIRA tickets, maintained Confluence documentation, Fisheye peer code reviews executed.",
+          "Maintained Confluence documentation and executed Fisheye peer code reviews.",
           "Mentored other developers in Actionscript 2/3 and Scaleform GFx."
         ],
         "Teacher at Game Worlds Camp (Summer 2017 & Summer 2018)":[
           "Developed and maintained a game and slides for rapid development and learning of how to make games with PICO-8 and L&Ouml;VE framework."
         ],
-        "Chief Executive Officer at Missing Sentinel Software (2011 &rarr; Current)":[
-          "Made <i>YOKO REDUX</i> (<a href=\"http://YokoRedux.com\">YokoRedux.com</a>) in 18 months on Steam using Unity.",
-          "Made <i>RogueCraft Squadron</i> (<a href=\"http://roguecraftsquadron.com\">RogueCraftSquadron.com</a>) in 2 years on Steam using the L&Ouml;VE framework.",
-          "Developed 75+ games with total over 250k downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request."
+        "Sole Founder of Missing Sentinel Software (2011 &rarr; Current)":[
+          "Shipped <i>YOKO REDUX</i> (<a href=\"http://YokoRedux.com\">YokoRedux.com</a>) in 18 months on Steam using Unity.",
+          "Shipped <i>RogueCraft Squadron</i> (<a href=\"http://roguecraftsquadron.com\">RogueCraftSquadron.com</a>) in 2 years on Steam using L&Ouml;VE.",
+          "Developed 75+ games with total over 250k downloads.",
+          "See games at <a href=\"http://MissingSentinelSoftware.com\">MissingSentinelSoftware.com</a>. Paid games available upon request."
         ]
       }
     },
@@ -53,8 +54,8 @@
       "Table": {
         "Experience": "Unity w/ C# (8 years), Linux Environments (12 years), Scaleform GFx w/ Actionscript (1 year), Python (2 years)",
         "Operating Systems": "Linux, Windows, macOS, Android",
-        "Frameworks": "Unity, L&Ouml;VE, PICO-8, Unreal",
-        "Software": "Git, Mercurial, Perforce, GNU Make, JIRA/Confluence, Postman, Miro, Visual Studio Code, Visual Studio, IntelliJ, TeamCity",
+        "Engines": "Unity, L&Ouml;VE, PICO-8, Unreal",
+        "Software": "Unity Netcode (NGO), OpenXR, Git, Mercurial, Perforce, GNU Make, JIRA/Confluence, Postman, Miro, Visual Studio Code, Visual Studio, IntelliJ, TeamCity",
         "Spoken Languages": "Conversational German due to 18 years of residence in Vienna, Austria"
       }
     },
