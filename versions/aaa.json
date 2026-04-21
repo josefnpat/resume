@@ -2,59 +2,60 @@
   "sections": {
     "Professional Experience": {
       "Timeline": {
-        "Senior Software Engineer at Fusion Constructive, LLC (May 2019 &rarr; Current)":[
-          "DARPA/L3HARRIS SAFE-SIM Contract: Developed data visualization and 3D synthetic environment using Unity3D. Communicated with external teams to implement front end client interfaces in Unity3D with RESTful APIs.",
-          "Developed flagship simulation product FUSION using Unity3D.",
-          "Maintained Android augmented reality companion app to FUSION product using Unity3D.",
+        "Lead Developer at FTS Games, LLC (June 2024 &rarr; Current)":[
+          "Led development of Legends of Meridian using Unity 2022, driving architecture, systems design and technical direction from prototype to release.",
+          "Established engineering standards, including PR workflows, code review guidelines and branching strategy for internal and external contributors.",
+          "Architected and deployed multiplayer infrastructure using Unity Netcode (NGO) and headless server builds on AWS EC2.",
+          "Sole engineer during late-stage development, owning all systems, integrations and technical decision-making.",
+          "Optimized VR performance from ~20 FPS to 72+ FPS, successfully passing Meta Quest VRC1 certification requirements.",
+          "Integrated OpenXR within Unity to power VR functionality on Meta Quest 2/3, aligning the project with modern XR standards."
+        ],
+        "Software Engineer at SciPlay Corporation (Dec 2022 &rarr; May 2024)":[
+          "Migrated Bingo Showdown's Diamond Jackpot Rewards to server-side logic via modern OOP refactor, eliminating client-side deployment requirements.",
+          "Developed a standalone framework to port legacy slot mechanics to modern Unity versions for cross-project integration.",
+          "Directed end-to-end release cycles and hotfixes for Bingo Showdown across iOS, Android, Kindle, and WebGL.",
+          "Led the UGUI to UI Toolkit (UITK) transition for Bingo Daub City to improve interface performance and scalability.",
+          "Resolved production database thrashing by purging 9M redundant entries, achieving a 95% reduction in table size."
+        ],
+        "Senior Software Engineer at Fusion Constructive, LLC (May 2019 &rarr; Oct 2021)":[
+          "Developed flagship simulation product FUSION using Unity.",
+          "Maintained Android augmented reality companion app to FUSION product using Unity.",
           "Documented and implement coding standards, peer review systems, pull request workflows and git workflows using submodules.",
-          "Maintained CentOS Linux servers for local deployment of docker clusters."
+          "Maintained CentOS Linux servers for local deployment of docker clusters.",
+          "DARPA/L3HARRIS SAFE-SIM Contract: Developed data visualization and 3D synthetic environment using Unity. Communicated with external teams to implement front end client interfaces in Unity with RESTful APIs."
         ],
         "Contract Software Engineer at Retora Game Studios (January 2019 &rarr; June 2019)":[
           "Developed an Android/iOS game using Corona and Lua called Space Merchant.",
-          "Implemented front and back end features.",
           "Maintained and provided bugfixes to the codebase using SVN."
         ],
         "Contract Software Engineer at Black Hive Media (July 2018 &rarr; February 2019)":[
-          "Developed Android/iOS game using Unity3D and C#.",
-          "Integrated and debugged rendered animations from animation software, Nima (2Dimensions).",
-          "Tracked sprints using Trello (Kanban).",
-          "Maintained codebase with the Unity3D service, Collaborate."
+          "Developed Android/iOS game using Unity and C# ith the Unity service, Collaborate.",
+          "Integrated and debugged rendered animations from animation software, Nima (2Dimensions)."
         ],
         "Contract Associate Software Engineer at Certain Affinity (May 2017 &rarr; June 2018)":[
           "Fulfilled multiple contracts for Wargaming Group Limited on World of Tanks.",
           "Developed features with Actionscript 2/3 using Scaleform GFx and Python 2.7.",
           "Implemented designs from Certain Affinity and Wargaming designers to specification.",
           "Triaged JIRA tickets, maintained Confluence documentation, Fisheye peer code reviews executed.",
-          "Deployed features and bug fixes in weekly sprints.",
-          "Mentored other developers in Actionscript 2/3 and Scaleform GFx.",
-          "Won \"Most Creative\" for \"CA Team Gingerbread Team House Building\" contest."
+          "Mentored other developers in Actionscript 2/3 and Scaleform GFx."
         ],
         "Teacher at Game Worlds Camp (Summer 2017 & Summer 2018)":[
           "Developed and maintained a game and slides for rapid development and learning of how to make games with PICO-8 and L&Ouml;VE framework."
         ],
-        "Team Manager and Developer as Contractor at EJEW.IN, LCC (Jan 2017 &rarr; Feb)":[
-          "Developed video games with a small team targeting the Wii U platform using C# and Unity3D.",
-          "Managed project in preparation for release on digital distribution platform, Steam.",
-          "Game was released on steam in The Blue Box."
-        ],
         "Chief Executive Officer at Missing Sentinel Software (2011 &rarr; Current)":[
-          "Currently developing <i>YOKO REDUX</i> (<a href=\"http://YokoRedux.com\">YokoRedux.com</a>).",
-          "Designed, developed and released <i>RogueCraft Squadron</i> (<a href=\"http://roguecraftsquadron.com\">RogueCraftSquadron.com</a>) in 2 years for Steam and Itch.io using the L&Ouml;VE framework. Provided project management for a small team.",
-          "Developed 50+ games with total over 151k downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request.",
-          "Developed and maintained distribution website using Drupal 7 with over 135k Downloads.",
-          "Participated in 30+ Game Jams. (Multiple Awards)",
-          "Used the L&Ouml;VE framework, Unity3D Engine, Unreal Engine, Ren'Py engine and PICO-8."
+          "Made <i>YOKO REDUX</i> (<a href=\"http://YokoRedux.com\">YokoRedux.com</a>) in 18 months on Steam using Unity.",
+          "Made <i>RogueCraft Squadron</i> (<a href=\"http://roguecraftsquadron.com\">RogueCraftSquadron.com</a>) in 2 years on Steam using the L&Ouml;VE framework.",
+          "Developed 75+ games with total over 250k downloads. See games at <a href=\"http://MissingSentinelSoftware.com\">http://MissingSentinelSoftware.com</a>. Paid games available upon request."
         ]
       }
     },
     "Skills": {
       "Table": {
-        "Languages": "C#, Lua 5.x, Actionscript 2/3, Python 2.7/3, PHP 4/5/7, MySQL 5.x, HTML&nbsp;4/5, CSS&nbsp;1/2/3, Javascript, Shell/Bash&nbsp;scripting, Java, C, C++, Brainfuck, Atmel&nbsp;Assembly, VHDL, QBasic&nbsp;4.5, Borland&nbsp;Turbo&nbsp;Pascal&nbsp;7.0",
-        "Frameworks": "Unity3D, L&Ouml;VE, Scaleform GFx, PICO-8, Drupal&nbsp;5/6/7/8, Unreal, JQuery, Yii&nbsp;1.1, CodeIgniter&nbsp;2.x",
-        "Professional Experience": "C# (5 years), Actionscript 2/3 w/ Scaleform GFx (1 year), Python 2.7 (1.5 years), Back End Linux/PHP/MySQL/Apache (8 years), Front End HTML/CSS/JavaScript (8 years), Drupal (7 years), *NIX Environments (9 years)",
-        "Operating Systems": "GNU/Linux (Many Variants such as Arch, Debian, Ubuntu, CentOS, CloudLinux), Windows XP/7/10, MacOS, Android, Unix",
-        "Software": "JIRA, Confluence, Visual&nbsp;Studio, Git, Postman, Maven, Fisheye, IntelliJ, PyCharm, vim, Mercurial, Subversion, Perforce, TeamCity, Aegir, Wordpress, Apache, Nginx, Valgrind&nbsp;CacheGrind, KCacheGrind, GIMP&nbsp;2.x, Adobe&nbsp;Photoshop&nbsp;5/7/CS/CS2, Adobe&nbsp;InDesign, Quartus&nbsp;II, ModelSim, ExpressPCB, OrCAD&nbsp;Lite, Matlab, Mathematica, Libre, Open and Microsoft&nbsp;Office",
-        "Spoken Languages": "German due to 18 years of residence in Vienna, Austria"
+        "Experience": "Unity w/ C# (8 years), Linux Environments (12 years), Scaleform GFx w/ Actionscript (1 year), Python (2 years)",
+        "Operating Systems": "Linux, Windows, macOS, Android",
+        "Frameworks": "Unity, L&Ouml;VE, PICO-8, Unreal",
+        "Software": "Git, Mercurial, Perforce, GNU Make, JIRA/Confluence, Postman, Miro, Visual Studio Code, Visual Studio, IntelliJ, TeamCity",
+        "Spoken Languages": "Conversational German due to 18 years of residence in Vienna, Austria"
       }
     },
     "Education": {

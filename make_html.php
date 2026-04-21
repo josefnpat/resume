@@ -26,11 +26,12 @@ $shared = json_decode($json_shared);
       <div id="sidebar">
         <div id="name"><?php echo $shared->name; ?></div>
         <div id="contacts">
-<?php foreach($shared->contact as $contact){ ?>
+<?php foreach ($shared->contact as $key => $contact){ ?>
           <div class="contact">
             <ul>
+              <li><?php echo $key; ?></li>
 <?php   foreach($contact as $line){ ?>
-              <li><?php echo $line; ?></li>
+              <li class ="contactvalue"><?php echo $line; ?></li>
 <?php   } // end contact line ?>
             </ul>
           </div> <!-- end contact -->

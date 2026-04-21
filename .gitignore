@@ -1,5 +1,4 @@
 *.swp
-temp.pdf
 *.html
-*.png
+.DS_Store
 *.pdf
